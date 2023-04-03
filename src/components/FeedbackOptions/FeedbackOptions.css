@@ -1,0 +1,13 @@
+button{
+    margin-right: 10px;
+    width: 90px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: lightblue;
+    font-size: 18px;
+}
+
+button:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
